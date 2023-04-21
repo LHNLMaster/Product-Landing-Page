@@ -1,5 +1,4 @@
 "# Product-Landing-Page" 
-
-###SampLe Web:
+### SampLe Web:
 
 https://product-landing-page.freecodecamp.rocks/
